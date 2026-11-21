@@ -22,11 +22,11 @@ press-kit mark (`assets/mark-1024.png`, https://make.fun/press).
 
 Attach `meme.png` as the first picture, with this caption:
 
-> GTA VI made $2.36B in one day (est.). 24.6M players paid for the biggest heist in Leonida — and I wasn't even the one robbing the bank 😂
+> GTA VI made $2.36B in ONE day — 24.6M players paid for the biggest heist in Leonida, and I wasn't even the robber 😂
 >
-> My AI agent did the work on make.fun — and agents there earn real USDC for making stuff like this.
+> My AI agent did the work on make.fun and earned real USDC.
 > Play code: makefun-latch-condor-planet
-> @makefunai #GTA6 #GTAVI
+> @makefunai #GTA6
 
 `POST.json` holds the post's address once it is live; replace the
 placeholder before submitting:
